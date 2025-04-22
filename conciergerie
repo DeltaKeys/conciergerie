@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Conciergerie - Locations Courte Durée</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fefaf6;
+      color: #4a3e35;
+    }
+    header {
+      background-color: #f2e4d6;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    section {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #b66d3d;
+      margin-bottom: 20px;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+    .services li {
+      background: #fff4e9;
+      margin-bottom: 12px;
+      padding: 15px 20px;
+      border-left: 5px solid #e5a76d;
+      border-radius: 5px;
+    }
+    .contact {
+      background: #f8f0e6;
+      padding: 30px;
+      border-radius: 8px;
+    }
+    .contact p {
+      margin: 10px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #e7d6c0;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Votre Conciergerie de Confiance</h1>
+  <p>Pour une gestion sereine de vos locations courte durée</p>
+</header>
+
+<section class="services">
+  <h2>Nos services</h2>
+  <ul>
+    <li>Rédaction d’annonces attractives</li>
+    <li>Échanges avec les voyageurs (avant, pendant et après le séjour)</li>
+    <li>Accueil & départ des voyageurs (entrées et sorties)</li>
+    <li>Diffusion des annonces sur plusieurs plateformes</li>
+    <li>Ménage professionnel et gestion du linge de lit</li>
+    <li>Conseils personnalisés en décoration</li>
+    <li>Suivi régulier de l’état du bien</li>
+    <li>Pilotage complet du calendrier de réservation</li>
+    <li>Optimisation des revenus selon la saisonnalité</li>
+  </ul>
+</section>
+
+<section class="contact">
+  <h2>Contact</h2>
+  <p>Vous souhaitez en savoir plus ou obtenir un devis ?</p>
+  <p><strong>Email :</strong> contact@votreconciergerie.fr</p>
+  <p><strong>Téléphone :</strong> 06 12 34 56 78</p>
+</section>
+
+<footer>
+  &copy; 2025 Votre Conciergerie – Tous droits réservés
+</footer>
+
+</body>
+</html>
